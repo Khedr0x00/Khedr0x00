@@ -17,6 +17,12 @@ about_me:
   stack: [Python, HTML, JavaScript, Bash, Flask, xterm.js]
 ```
 
+## 🌐 Portfolio Website
+
+> **All my projects in one place** → **[khedr0x00.github.io](https://khedr0x00.github.io)**
+> Live portfolio with every public repository, synced automatically from GitHub — search, filters, and details for each project.
+
+
 ---
 
 ## 🎯 Featured Tooling
